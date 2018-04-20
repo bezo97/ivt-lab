@@ -1,5 +1,9 @@
 Első változtatás!-
+<<<<<<< HEAD
 branch-A cucc
+=======
+branch-B cucc
+>>>>>>> branch-B
 
 # IVT Spaceship
 
